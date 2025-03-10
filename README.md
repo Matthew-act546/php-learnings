@@ -1,4 +1,4 @@
-Hello# PHP Learning Journey
+# PHP Learning Journey
 
 ## Introduction
 This README serves as a record of my learnings in PHP, a powerful server-side scripting language used for web development. PHP enables dynamic content, database interactions, and seamless integration with HTML and CSS.
