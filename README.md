@@ -59,7 +59,3 @@ This README serves as a record of my learnings in PHP, a powerful server-side sc
 - Implementing authentication and authorization
 - Learning about PHP security best practices
 - Enhancing performance and optimization
-
-## Conclusion
-PHP is a versatile language that plays a crucial role in backend development. My learning journey in PHP has given me a solid foundation in web development, and I look forward to deepening my expertise in this language.
-
