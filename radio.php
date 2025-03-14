@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="index.php" method="post">
+    <form action="radio.php" method="post">
         <input type="radio" name="payment" value="Cash" id="cash">
         <label for="cash">Cash</label><br>
         <input type="radio" name="payment" value="Gcash" id="gcash">
