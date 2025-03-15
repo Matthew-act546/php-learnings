@@ -13,7 +13,7 @@
         <p>
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque temporibus sunt ipsa ab neque vero quidem 
             necessitatibus iure alias ipsum nesciunt amet maxime quibusdam, eligendi sequi cum consectetur sed possimus. <br>
-            this is a <b> home page</b>
+            this is a <b> contacts page</b>
         </p>
     </div>
 
